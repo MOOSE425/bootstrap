@@ -1,0 +1,19 @@
+
+span {
+    color: #8B37FF;
+}
+.btn {
+    background-color: #8B37FF;
+    color: white;
+    border-radius: 40px;
+    font-size: 2em;
+}
+h1 {
+    font-size: 6em;
+}
+h2 {
+    font-size: 1.7em;
+}
+p {
+    font-size: 1.2em;
+}
